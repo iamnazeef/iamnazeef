@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning frontend development<br>👯 I’m Interested in Open Source, Community and Learning in Public <br>⭐ I’m also interested in Startups and Remote Work<br>💬 Ask me about Java, JavaScript, HTML and CSS
+🔭 I’m currently learning Frontend Development<br>👯 I’m Interested in Open Source, Community and Learning in Public <br>⭐ I’m also interested in Startups and Remote Work<br>💬 Ask me about Java, JavaScript, HTML and CSS
 
 
 ## 🌐 Socials:
