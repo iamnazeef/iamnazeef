@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Frontend Web Development<br>👯 I’m Interested in Open Source, Web Dev, ReactJS and NextJS <br>⭐ I’m also interested in Mobile Dev and Backend Dev <br>💬 Ask me about Java, JavaScript, ReactJS, TaiwindCSS, HTML and CSS
+🔭 I’m currently learning Frontend Web Development<br>👯 I’m Interested in Open Source, Web Dev, ReactJS and NextJS <br>⭐ I’m also interested in Backend Dev <br>💬 Ask me about Java, JavaScript, ReactJS, TaiwindCSS, HTML and CSS
 
 
 ## 🌐 Socials:
