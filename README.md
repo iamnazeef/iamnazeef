@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning React JS Development<br>👯 I’m Interested in Open Source, Frontend Dev and Backend Dev<br>💬 Ask me about Java, JavaScript, TypeScript, ReactJS, TaiwindCSS, Redux JS
+🔭 I’m currently learning React JS Development<br>👯 I’m Interested in Frontend Development and Backend Development<br>💬 Ask me about Java, JavaScript, TypeScript, ReactJS, TaiwindCSS, Redux JS
 
 
 ## 🌐 Socials:
